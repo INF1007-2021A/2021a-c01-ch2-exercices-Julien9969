@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 def majuscule(mot):
+    #test
     # TODO completer la fonction ici
     nouveau_mot=str()
     
